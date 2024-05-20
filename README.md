@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gutobiel&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:    
 I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
@@ -13,7 +13,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 ## Competitions: 🥇
 
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
+### Algorithms [LeetCode](https://leetcode.com/Gutobiel/)
 
 ### CTF's
 
@@ -33,8 +33,8 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 ### Working on: 🚀
 
 - Tweaking this README for optimal engagement 
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
+- [fullstack web3 development course](https://github.com/Gutobiel/full_course_crypto_32) 
+- [ethernaut tasks](https://github.com/Gutobiel/ethernaut_source_tasks)
 - Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
 
 
@@ -107,7 +107,7 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Gutobiel&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -117,14 +117,14 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Gutobiel&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutobiel&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Gutobiel&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
